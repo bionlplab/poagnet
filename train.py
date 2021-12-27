@@ -5,7 +5,7 @@ from models import vgg16, ensemble_vgg
 from modelnew import Res, ensemble_res, Den, ensemble_model, ensemble_resden,ensemble_resden1, multiscale_Net, Multiscale_multimodel,triplescale_Net, Res1,Den1,mobv2, vgg_16, nas,naslarge, xception,ensemble_resden_double,ensemble_resden2,Res_double,Den_double,ensemble_resden_siamese,ensemble_resden_siamese1,ensemble_resden_siamese2
 from modelnew import ensemble_resden_siamese3,ensemble_resden_siamese4
 from data_load_cv import load_data
-# from data_load_cv_vf import load_data_vf
+from data_load_cv_vf import load_data_vf
 # from data_load_cv_double import load_data_double
 from data_load_cv_siamese import load_data_siamese
 import numpy as np
