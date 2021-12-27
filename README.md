@@ -4,7 +4,7 @@ Primary open-angle glaucoma (POAG) is one of the leading causes of irreversible 
 
 ## Datasets
 
-[Ocular Hypertension Treatment Study (OHTS)]() is one of the largest longitudinal clinical trials in POAG (1,636 participants and 37,399 images) from 22 centers in the United States. The study protocol was approved by an independent Institutional Review Board at each clinical center. Please visit the website to obtain a copy of the dataset.
+[Ocular Hypertension Treatment Study (OHTS)](https://ohts.wustl.edu/) is one of the largest longitudinal clinical trials in POAG (1,636 participants and 37,399 images) from 22 centers in the United States. The study protocol was approved by an independent Institutional Review Board at each clinical center. Please visit the website to obtain a copy of the dataset.
 
 [Sequential fundus Images for Glaucoma (SIG)](https://github.com/XiaofeiWang2018/DeepGF) contains 3,684 fundus images, of which 153 (4.15%) have POAG.  
 
