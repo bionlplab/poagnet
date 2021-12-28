@@ -14,6 +14,11 @@ Primary open-angle glaucoma (POAG) is one of the leading causes of irreversible 
 
 * python >=3.6
 * keras
+* tensorflow-gpu = 2.2.0
+* sklearn
+* pandas
+* opencv
+* skimage
 
 ### Quickstart
 
