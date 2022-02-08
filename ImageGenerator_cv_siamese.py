@@ -88,7 +88,7 @@ def DataGenerator_siamese(x_size,y_size,data_path,label_path,train_normal,train_
                     gt = tmp1[int(ind[j])]
                     kk = 1
                 else:
-                    normal_images2[le] = normal_images_base
+                    normal_images1[le] = normal_images_base
                     normal_images2[le] = cv2.resize(IM, (x_size, y_size))
                # glaucoma_images[le] = resize(IM, (x_size, y_size, 3))
                # glaucoma_images[le] = IM
